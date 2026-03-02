@@ -65,4 +65,4 @@ China is a liberal actor within the UNSC. China’s voting behavior in the UNSC 
 
 ## Notes
 * I used R version 2025.09.2+418
-* I used a network analysis using ggraph to visualize the voting similarity between nations
+* I used a network analysis with ggraph to visualize the voting similarity between nations
