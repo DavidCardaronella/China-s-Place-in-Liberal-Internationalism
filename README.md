@@ -36,8 +36,8 @@ This project integrates multiple international sanctions and voting datasets:
 
 
 ## Repository Structure
-UNSC_sanctions.qmd      # Quarto source file 
-UNSC_sanctions.html     # Rendered output
+* UNSC_sanctions.qmd (Quarto Source file)
+* UNSC_sanctions.html (Rendered output)
 
 
 ## How to Reproduce
