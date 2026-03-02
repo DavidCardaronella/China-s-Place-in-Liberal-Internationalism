@@ -3,8 +3,8 @@ This project analyzes China’s voting behavior in the United Nations Security C
 
 
 ## Research Questions
-1. To what extent does China behave as a liberal actor in the United Nations Security Council (UNSC)?
-2. Is China’s support for a UNSC sanction a statistically-significant determinant of sanction success?
+1.   To what extent does China behave as a liberal actor in the United Nations Security Council (UNSC)?
+2.   Is China’s support for a UNSC sanction a statistically-significant determinant of sanction success?
 
 
 ## Methods
