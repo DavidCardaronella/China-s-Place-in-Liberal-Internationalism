@@ -59,7 +59,7 @@ install.packages(c(
 3. Use with Quarto Document "UNSC_sanctions.qmd"
 
 ## Key Findings
-China is a liberal actor within the UNSC. China’s voting behavior in the UNSC aligns closely with that of the United States, the United Kingdom, and France. China’s support significantly increases the probability of UNSC sanction success, although there are many other factors important in explaining UNSC sanction success. China does not veto often, it has only vetoed 19 times from 1972-2024. When it does, its vetoes are always against the wishes of the US, the UK, and France. China vetoed sanctions over Syria most often.
+China is a liberal actor within the UNSC. China’s voting behavior in the UNSC aligns closely with that of the United States, the United Kingdom, and France. China’s support significantly increases the probability of UNSC sanction success, although there are many other factors important in explaining UNSC sanction success. China does not veto often, it has only vetoed 19 times from 1972-2024. When it does veto, its vetoes are always against the wishes of the US, the UK, and France. China vetoed UNSC sanctions over Syria most often.
 
 ## Notes
 * I used R version 2025.09.2+418
