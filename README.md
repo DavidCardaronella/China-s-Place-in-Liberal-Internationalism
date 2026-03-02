@@ -30,9 +30,10 @@ This project integrates multiple international sanctions and voting datasets:
 2. ggraph
 3. gt
 4. igraph
-5. pscl
-6. readxl
-7. tidyverse
+5. patchwork
+6. pscl
+7. readxl
+8. tidyverse
 
 
 ## Repository Structure
@@ -49,6 +50,7 @@ install.packages(c(
   "ggraph",
   "gt",
   "igraph",
+  "patchwork",
   "pscl",
   "readxl",
   "tidyverse"
