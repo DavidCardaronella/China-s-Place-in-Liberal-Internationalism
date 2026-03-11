@@ -1,4 +1,4 @@
-# China's Place in Liberal Internationalism
+# China’s Role in United Nations Sanctions
 This project analyzes China’s voting behavior in the United Nations Security Council (UNSC) using descriptive statistics and a logistic regression model in R. I answer the question of how liberal China is internationally, as well as the question of whether China's support for a UNSC sanction is a significant determinant of UNSC sanction success.
 
 
